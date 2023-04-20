@@ -1,6 +1,6 @@
 <img align="left" src="https://user-images.githubusercontent.com/112698385/232780070-da828220-9ab4-405b-aef5-8387993d260a.png">
 
-## Open-source energy system models help save the world and fuel the green transition
+## Open energy system models fuel the green energy transition
 
 Our mission is to research new methodology and develop demonstration-ready energy modelling tools, that allow for <b>maximum flexibility, generality and speed while being open, secure and user-friendly</b>. This is no easy task, but to pride ourselves by saying that our tools are at the cutting edge of the field. We do this by simultanously hosting many modelling tools and research projects with similar goals, yet different focuses - and by working in close collaboration with the leading open-source energy models out there, like our friends at PyPSA and Osemosys. 
 
