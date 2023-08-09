@@ -10,7 +10,7 @@ There are many open energy system models and modelling frameworks out there. We 
 
 | [Spine Toolbox](https://github.com/spine-tools/Spine-Toolbox) | SpineOpt | Backbone | IRENA FlexTool  | Predicer |
 | :---------------- | :------ | :---- | :------ | :---- | 
-| DATA & WORKFLOW MANAGEMENT | ENERGY SYSTEM OPTIMIZATION fully open | ENERGY SYSTEM OPTIMIZATION in GAMS | ENERGY SYSTEM OPTIMIZATION for developing countries | SINGLE-ACTOR MULTI-MARKET OPTIMIZATION |
+| DATA & WORKFLOW MANAGEMENT | Fully open ENERGY SYSTEM OPTIMIZATION | ENERGY SYSTEM OPTIMIZATION in GAMS | ENERGY SYSTEM OPTIMIZATION for developing countries | SINGLE-ACTOR MULTI-MARKET OPTIMIZATION |
 | 1. Maintain repeatable workflows to supply data to different modelling tools | 1. Include operational detail in investment planning | Optimize investments and operation in multi-sectoral energy systems on local, national and continental scales | Planning for high shares of variable power generation in future energy systems | |
 | 2. Tools to transform data, data structures, and data formats  | 2. Highly flexible temporal, spatial and stochastic settings  | Flexible and general formulation, rich in features | Developed with IRENA for the developing countries | ----: | 
 | 3. Create scenarios from alternative values and parallelize the execution  | 3. Written in Julia, use Spine Toolbox as user interface   | Written in GAMS, no user interface (Excel + GDXXRW can be used)  | Written in AMPL+Python, can be used with Spine Toolbox or web interface  | ----: | 
