@@ -31,4 +31,19 @@ There are many open energy system models and modelling frameworks out there. We 
 
 # The Design and Operation of Energy Systems Team at VTT - who are we?
 
+<img align="left" width=500 src="https://github.com/Tools-for-energy-system-modelling/.github/assets/112698385/10fe015a-1d59-4475-a21f-07a96653fcb4">
 
+We operate at the sweet spot between where energy system expertize meets mathematics and programming. Our team consist of nine researchers with years of experience on creating cutting-edge energy system modelling. Our work is in research projects for the benefit of the Finnish and European public authorities, as well as the Nordic industry. Here are some of our largest ongoing projects:
+
+- Mopo
+- ELEXIA
+- ...
+
+Some of our reference work includes:
+
+- Nordic energy system model for Backbone
+- ...
+
+For full list of our ongoing and past projects, please visit: LINK TO PURE
+
+Want to know more? Contact team leader XX at XX.XX@vtt.fi
