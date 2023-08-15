@@ -1,4 +1,4 @@
-<img align="left" src="https://user-images.githubusercontent.com/112698385/232780070-da828220-9ab4-405b-aef5-8387993d260a.png">
+<img align="left" width=150 src="https://github.com/Tools-for-energy-system-modelling/.github/assets/112698385/d89fd34f-4990-4dfa-a5dc-f65400fcc6e6">
 
 ## Open energy system models are fueling the green energy transition
 
