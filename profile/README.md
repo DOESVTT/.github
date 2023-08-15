@@ -17,15 +17,18 @@ There are many open energy system models and modelling frameworks out there. We 
 |    | + SpineInterface package for quick model building using Julia JuMP   |  | |  | 
 
 
-<img align="right" src=https://user-images.githubusercontent.com/112698385/232751058-070d3b05-b338-4e36-b85b-e0ceaf6361b7.png>
-
 # Our best ideas to steal
 
 1.	<b>Not everything in the model needs same resolution – not in space, not in time and not in probability.</b> Freedom to assign different resolution to different parts of the model makes it possible to create a TIMES-like economy model and a PLEXOS-type operational model with the same tool. As computational time is still a major issue on how wide and detailed we can make our models, being free to assign more resolution to the parts that matter expands modelling capabilities. In SpineOpt, the spatial, temporal and stochastic resolution can be freely assigned to different types of model.
 2.	Invest optimizing without operational detail is like painting with the lights off. All modellers know it’s difficult to include operation detail in investment planning, but we believe it’s absolutely crucial and we have spent a lot of time on it.
-3.	The model doesn’t have to care whether you model power, heat, gas or river systems. Agnostic and general representation of energy vectors allows for easy modelling of sectoral integration. When you want to model a new technology or a new sector, you don’t need to touch the model fundamentals. Of course most used constraints like power flow, heat transfer, hydrological inflow, and technologies are included in the framework for your convenience. 
-4.	Maintain workflows, not models
-5.	Using alternatives makes scenario building simpler.
-6.	A modeller doesn’t have to be a coder.
-7.	Open source is a strength.
-8.	We like our models, but we are not the best at everything. So explore the open source models out there and combine the best in them.
+3.	The model doesn’t have to care whether you model power, heat, gas or river systems. Agnostic and general representation of energy vectors allows for easy modelling of sectoral integration. When you want to model a new technology or a new sector, you don’t need to touch the model fundamentals. Of course most used constraints like power flow, heat transfer, hydrological inflow, and technologies are included in the framework for your convenience.
+4.	Optimizing subsystems leads to suboptimal solutions.
+5.	Maintain workflows, not models
+6.	Using alternatives makes scenario building simpler.
+7.	A modeller doesn’t have to be a coder.
+8.	Open source is a strength.
+9.	We like our models, but we are not the best at everything. So explore the open source models out there and combine the best in them.
+
+# The Design and Operation of Energy Systems Team at VTT - who are we?
+
+
