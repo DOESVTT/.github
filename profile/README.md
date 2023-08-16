@@ -8,14 +8,10 @@ There are many open energy system models and modelling frameworks out there. We 
 
 # Get to know our tools:
 
-| [Spine Toolbox](https://github.com/spine-tools/Spine-Toolbox) | SpineOpt | Backbone | IRENA FlexTool  | Predicer |
+| <img src="https://github.com/Tools-for-energy-system-modelling/.github/assets/112698385/6a9bdab1-bb06-4181-9926-adb817e29858"> | SpineOpt | Backbone | IRENA FlexTool  | Predicer |
 | :---------------- | :------ | :---- | :------ | :---- | 
-| DATA & WORKFLOW MANAGEMENT | Fully open ENERGY SYSTEM OPTIMIZATION | ENERGY SYSTEM OPTIMIZATION in GAMS | ENERGY SYSTEM OPTIMIZATION for developing countries | SINGLE-ACTOR MULTI-MARKET OPTIMIZATION |
-| 1. Maintain repeatable workflows to supply data to different modelling tools | 1. Include operational detail in investment planning | Optimize investments and operation in multi-sectoral energy systems on local, national and continental scales | Planning for high shares of variable power generation in future energy systems | |
-| 2. Tools to transform data, data structures, and data formats  | 2. Highly flexible temporal, spatial and stochastic settings  | Flexible and general formulation, rich in features | Developed with IRENA for the developing countries | ----: | 
-| 3. Create scenarios from alternative values and parallelize the execution  | 3. Written in Julia, use Spine Toolbox as user interface   | Written in GAMS, no user interface (Excel + GDXXRW can be used)  | Written in AMPL+Python, can be used with Spine Toolbox or web interface  | ----: | 
-|    | + SpineInterface package for quick model building using Julia JuMP   |  | |  | 
 
+[<img src="https://github.com/Tools-for-energy-system-modelling/.github/assets/112698385/6a9bdab1-bb06-4181-9926-adb817e29858">](https://github.com/spine-tools/Spine-Toolbox)
 
 # Our best ideas to steal
 
