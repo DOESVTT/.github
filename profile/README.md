@@ -1,3 +1,5 @@
+<img align="left" width=150 src="https://github.com/Tools-for-energy-system-modelling/.github/assets/112698385/209d39e6-4e0b-4adf-8626-12b9a45ddc4d">
+
 ## Open energy system models are fueling the green energy transition
 
 Our mission is to research new methodology and develop demonstration-ready energy modelling tools, that allow for <b>maximum flexibility, generality and speed while being open, secure and user-friendly</b>. This is no easy task, but to pride ourselves by saying that our tools are at the cutting edge of the field. We do this by simultanously hosting many modelling tools and research projects with similar goals, yet different focuses - and by working in close collaboration with the leading open-source energy models out there, like our friends at PyPSA and Osemosys. Of course we also work hand-in-hand with other VTT energy models, like Fleximar.
@@ -135,4 +137,4 @@ For full list of our ongoing and past projects, please visit: LINK TO PURE
 
 Want to know more? Contact team leader XX at XX.XX@vtt.fi
 
-<img align="left" width=150 src="https://github.com/Tools-for-energy-system-modelling/.github/assets/112698385/209d39e6-4e0b-4adf-8626-12b9a45ddc4d">
+
